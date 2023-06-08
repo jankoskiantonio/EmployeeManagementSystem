@@ -4,8 +4,12 @@ SOA Project Assignment
 
 To test APIs with Swagger:
 
-Use the login endpoint and send a request with:
-username: hrmanager1@gmail.com
-password: hrmanager
+Use the login endpoint and send a request with: 
 
-or create your own account with a register request
+
+username: hrmanager1@gmail.com
+ 
+password: hrmanager 
+
+
+or create your own account with a register request. Then use the token from the login response to authorize.
